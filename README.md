@@ -7,7 +7,7 @@ You can search and save the chracteres you like most.
 
 ## Requirements
 
-* Xcode 10.2
+* Xcode 11.4.1
 * iOS 11.0 +
 * Swift 5
 
@@ -38,7 +38,7 @@ class CharacterCatalogLogic {
 * ✅ **No Storyboard:** View develop ~80% in code using ```PureLayout```, with no broken contraints. Cell and custom views are created using XIBs.
 * ✅ **Unit Tests:** 6
 * ✅ **UITests:** 6
-* ✅ **Devices:** iPhone5 and 5s, iPhone6 and 6s, iPhone7.
+* ✅ **Devices:** from iPhone 8 to 11 Pro Max, Portrait Mode
 * ✅ **iOS:** 11.0+.
 
 🌟 💯 All tests passed using above configurations. 🌟
