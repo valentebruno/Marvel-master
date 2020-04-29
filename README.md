@@ -53,7 +53,7 @@ You can favorite a character right from the catalog screen, just do a long press
 Less verbose Auto-Layout constraints: `myView.autoPinEdgesToSuperviewEdges()`.
 
 #### pod 'CCBottomRefreshControl'
-Add a activity indicator at the bottom of UIScrollView (UITableView, UICollectionView). Because [ANGTFT](https://www.youtube.com/watch?v=pzZOc05BFHE), I'm kidding, I have a [lib](https://github.com/FelipeCardoso89/UILoadControl) that do that but its not on swift 5 yet and I had no time to implement it again at this moment. 
+Add a activity indicator at the bottom of UIScrollView (UITableView, UICollectionView)
 
 ## How to install
 
