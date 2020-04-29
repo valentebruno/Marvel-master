@@ -69,3 +69,4 @@ Add a activity indicator at the bottom of UIScrollView (UITableView, UICollectio
 The build for test process may fail because the ```'pod UITestHelper'``` has it property ```enable_bitcode = YES``` simply change it to ```NO``` and build for test again using ```Cmd```+ ```Shift```+ ```U```.
 # MarvelBold
 # MarvelBold
+# MarvelBold
